@@ -6,13 +6,21 @@
 - 通过Codex或Claude code等编程agent自带的Hooks来向指定接口发送消息与控制小狗动作，以此达到与Codex desktop中相似的宠物效果。
 ## 图片展示
 - 待机
+
 ![alt text](./images/20260709163618_rec_-convert.gif)
+
 - 左键点击与拖动
+
 ![alt text](images\20260709163848_rec_.gif)
+
 - 更换品种与部分菜单栏演示
+
 ![alt text](images\20260709164158_rec_-convert.gif)
+
 - 接受到http消息
+
 ![alt text](images/20260709164611_rec_-convert.gif)
+
 ## 功能
 
 - 无边框透明桌宠窗口，除小狗和菜单外不影响背后应用点击。
