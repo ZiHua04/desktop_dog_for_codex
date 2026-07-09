@@ -23,4 +23,6 @@ def send_message(text: str, command: str = "bark", text_duration: float = 5.0) -
 
 
 if __name__ == "__main__":
+    import time
+    # time.sleep(5)
     send_message("你好，我是桌面小狗！")
