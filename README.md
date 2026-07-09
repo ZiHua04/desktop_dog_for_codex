@@ -8,7 +8,7 @@
 - 待机
 ![alt text](./images/20260709163618_rec_-convert.gif)
 - 左键点击与拖动
-![image](images\20260709163848_rec_.gif)
+![alt text](images\20260709163848_rec_.gif)
 - 更换品种与部分菜单栏演示
 ![alt text](images\20260709164158_rec_-convert.gif)
 - 接受到http消息
