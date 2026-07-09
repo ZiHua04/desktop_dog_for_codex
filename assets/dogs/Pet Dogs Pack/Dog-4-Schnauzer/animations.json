@@ -1,0 +1,60 @@
+{
+  "default_frame_size": [100, 100],
+  "animations": {
+    "idle": {
+      "file": "Schnauzer-Idle.png",
+      "fps": 10,
+      "loop": true
+    },
+    "walk": {
+      "file": "Schnauzer-walk.png",
+      "fps": 10,
+      "loop": true
+    },
+    "run": {
+      "file": "Schnauzer-run.png",
+      "fps": 14,
+      "loop": true
+    },
+    "bark": {
+      "file": "Schnauzer-bark.png",
+      "fps": 8,
+      "loop": false
+    },
+    "itching": {
+      "file": "Schnauzer-itching.png",
+      "fps": 6,
+      "loop": false
+    },
+    "licking1": {
+      "file": "Schnauzer-licking1.png",
+      "fps": 8,
+      "loop": false
+    },
+    "licking2": {
+      "file": "Schnauzer-licking2.png",
+      "fps": 8,
+      "loop": false
+    },
+    "lying_down": {
+      "file": "Schnauzer-lying-down.png",
+      "fps": 8,
+      "loop": false
+    },
+    "sitting": {
+      "file": "Schnauzer-sitting.png",
+      "fps": 1,
+      "loop": true
+    },
+    "sleeping": {
+      "file": "Schnauzer-sleeping.png",
+      "fps": 1,
+      "loop": true
+    },
+    "stretching": {
+      "file": "Schnauzer-stretching.png",
+      "fps": 10,
+      "loop": false
+    }
+  }
+}

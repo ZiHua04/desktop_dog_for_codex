@@ -1,0 +1,60 @@
+{
+  "default_frame_size": [100, 100],
+  "animations": {
+    "idle": {
+      "file": "Akita-Idle.png",
+      "fps": 10,
+      "loop": true
+    },
+    "walk": {
+      "file": "Akita-walk.png",
+      "fps": 10,
+      "loop": true
+    },
+    "run": {
+      "file": "Akita-run.png",
+      "fps": 14,
+      "loop": true
+    },
+    "bark": {
+      "file": "Akita-bark.png",
+      "fps": 8,
+      "loop": false
+    },
+    "itching": {
+      "file": "Akita-itching.png",
+      "fps": 6,
+      "loop": false
+    },
+    "licking1": {
+      "file": "Akita-licking1.png",
+      "fps": 8,
+      "loop": false
+    },
+    "licking2": {
+      "file": "Akita-licking2.png",
+      "fps": 8,
+      "loop": false
+    },
+    "lying_down": {
+      "file": "Akita-lying-down.png",
+      "fps": 8,
+      "loop": false
+    },
+    "sitting": {
+      "file": "Akita-sitting.png",
+      "fps": 1,
+      "loop": true
+    },
+    "sleeping": {
+      "file": "Akita-sleeping.png",
+      "fps": 1,
+      "loop": true
+    },
+    "stretching": {
+      "file": "Akita-stretching.png",
+      "fps": 10,
+      "loop": false
+    }
+  }
+}

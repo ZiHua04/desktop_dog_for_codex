@@ -1,0 +1,1 @@
+"""Desktop dog pet application."""

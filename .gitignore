@@ -1,0 +1,48 @@
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local env files
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Build outputs
+build/
+dist/
+*.spec.bak
+
+# Installer / package artifacts
+*.egg-info/
+*.whl
+*.tar.gz
+
+# IDE and editor local state
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local logs and runtime dumps
+*.log
+*.tmp
+*.pid
+
+# Keep public example scripts, but never commit personal hook/config files.
+hooks.py
+hooks.json
+config.toml
